@@ -1,3 +1,3 @@
 # Node testing request
 
-    - yarn start
+    yarn start
